@@ -3,7 +3,7 @@ Project for the Financial Statistic course
 
 ## Introduction
 
-The analysis processes and results are explained in 財務統計報告-以統計方法計算投資組合及預測.pdf.   
+The analysis processes and results are explained in 財務統計報告-以統計方法計算投資組合及預測.pdf
 The book I refer to for theories behind the analysis is [Statistics and Finance: An Introduction](https://www.amazon.com/Statistics-Finance-Introduction-Springer-Texts/dp/0387202706).
 
 ## Structure
